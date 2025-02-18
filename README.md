@@ -14,7 +14,7 @@ Extract IPs from a json file and save the output in the data directory:
 ```sh
 python src/extract_ips.py <input_file>
 ```
-Run the crawler for extractes IPs with:
+Run the crawler for extracted IPs with:
 ```sh
 node src/crawler.js
 ```
@@ -40,7 +40,3 @@ node src/crawler.js
   ```sh
   node src/crawler.js
   ```
-
-
-
-# Criminal-IP-Crawler
