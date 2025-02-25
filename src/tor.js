@@ -5,7 +5,7 @@ import { SocksProxyAgent } from "socks-proxy-agent";
 // Configuration settings:
 const control_host = "127.0.0.1";
 const control_port = 9051;
-const tor_password = "6015185";
+const tor_password = "YOUR_PASSWORD";
 
 const tor_socks_proxy = "socks5h://127.0.0.1:9050";
 

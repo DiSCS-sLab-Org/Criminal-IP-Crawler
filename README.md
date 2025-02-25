@@ -50,7 +50,7 @@ Modify the following lines in `src/tor.js` to match your Tor configuration:
 ```javascript
 const control_host = "127.0.0.1";
 const control_port = 9051;
-const tor_password = "6015185";  // Change this to match your password
+const tor_password = "YOUR_PASSWORD";  // Change this to match your password
 ```
 
 #### 5. Restart Tor Service
